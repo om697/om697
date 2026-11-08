@@ -2,19 +2,16 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Om Achyuth banner" width="100%"/>
+<img src="./assets/banner.svg" alt="" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/om697">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD166&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Om+Achyuth+%F0%9F%91%8B;4th+year+AIML+student+%40+Ballari+Institute+of+Technology;Building+DhanDrishti+%E2%80%94+INR+detection+for+the+visually+impaired;AWS+%2B+Python+%2B+ML+builder;Nika+mode%3A+ON+%E2%98%80%EF%B8%8F+Coding+with+joy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2A48&center=true&vCenter=true&width=900&height=40&lines=Hey+there%2C+I%27m+Om+Achyuth+%F0%9F%91%8B;4th+year+AIML+%40+Ballari+Institute+of+Technology;Building+DhanDrishti+for+the+visually+impaired;AWS+%2B+Python+%2B+ML+builder;Nika+mode%3A+ON+%E2%98%80%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Gear 5 Luffy GIF (hotlinked; download into assets/ if it ever breaks) -->
-<img src="https://www.gifcen.com/wp-content/uploads/2024/04/luffy-gear-5-4.gif" alt="Gear 5 Luffy" width="420"/>
-
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=om697&label=Nakama+Visits&color=ffd166&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/om697?style=for-the-badge&logo=github&color=7c3aed&labelColor=0b0620)
